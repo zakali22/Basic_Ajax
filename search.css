@@ -1,0 +1,52 @@
+body {
+  background-color: lightgrey;
+  font-family: 'Poiret One', cursive;
+}
+
+nav {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.navbar-brand {
+  font-family: 'Arima Madurai', cursive;
+  font-size: 26px;
+}
+
+ul.nav {
+  margin-left: 45px;
+}
+
+ul.nav li {
+  padding-right: 13px;
+  font-size: 19px;
+}
+
+.row {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.thumbnail {
+  height: 500px;
+}
+
+.thumbnail img {
+  margin-top: 10px;
+}
+
+.thumbnail h3, .thumbnail .btn {
+  text-align: center;
+}
+
+.thumbnail p {
+  font-family: 'Mukta Vaani', sans-serif;
+  font-size: 17px;
+}
+
+.thumbnail .btn {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  top: -10px;
+}
